@@ -1,5 +1,3 @@
-# ServerHealthCheck
-
 <div align="center">
   <div>
     <h1>SERVER HEALTH CHECK</h1>
